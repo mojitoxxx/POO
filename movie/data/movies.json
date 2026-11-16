@@ -1,0 +1,10 @@
+[
+    { "title": "Inception", "director": "Christopher Nolan", "year": 2010, "rating": 9 },
+    { "title": "The Shawshank Redemption", "director": "Frank Darabont", "year": 1994, "rating": 10 },
+    { "title": "Pan's Labyrinth", "director": "Guillermo del Toro", "year": 2006, "rating": 8 },
+    { "title": "Fast & Furious 6", "director": "Justin Lin", "year": 2013, "rating": 6 },
+    { "title": "Parasite", "director": "Bong Joon-ho", "year": 2019, "rating": 9 },
+    { "title": "Cats", "director": "Tom Hooper", "year": 2019, "rating": 3 },
+    { "title": "The Others", "director": "Alejandro Amenábar", "year": 2001, "rating": 8 },
+    { "title": "Transformers: Age of Extinction", "director": "Michael Bay", "year": 2014, "rating": 5 }
+]

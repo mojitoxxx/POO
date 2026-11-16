@@ -1,0 +1,9 @@
+[
+    { "text": "Finish the JavaScript classes exercise", "category": "Studies", "completed": false },
+    { "text": "Upload the projects to GitHub", "category": "Studies", "completed": false },
+    { "text": "Review the networking unit", "category": "Studies", "completed": true },
+    { "text": "Buy groceries", "category": "Home", "completed": false },
+    { "text": "Clean the room", "category": "Home", "completed": false },
+    { "text": "Go to the gym", "category": "Personal", "completed": false },
+    { "text": "Call the dentist", "category": "Personal", "completed": true }
+]

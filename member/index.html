@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Team directory rendered from a JSON file using JavaScript classes">
+    <meta name="author" content="Student">
+    <title>Team Directory</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="module" src="js/app.js"></script>
+</head>
+<body>
+    <header class="header">
+        <h1 class="header__title">Team Directory</h1>
+        <p class="header__subtitle">Filter the team members by department</p>
+    </header>
+
+    <main class="main">
+        <div class="filter">
+            <label for="department-filter" class="filter__label">Department:</label>
+            <select id="department-filter" class="filter__select">
+                <option value="all">All</option>
+            </select>
+        </div>
+
+        <section id="member-list" class="member-list"></section>
+    </main>
+
+    <footer class="footer">
+        <p>Team Directory &copy; 2026</p>
+    </footer>
+</body>
+</html>

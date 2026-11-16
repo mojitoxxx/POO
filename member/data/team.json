@@ -1,0 +1,10 @@
+[
+    { "name": "Laura Gómez", "position": "Frontend Developer", "department": "Development", "available": true },
+    { "name": "Carlos Ruiz", "position": "Backend Developer", "department": "Development", "available": false },
+    { "name": "Marta López", "position": "Full Stack Developer", "department": "Development", "available": true },
+    { "name": "Javier Torres", "position": "UI Designer", "department": "Design", "available": true },
+    { "name": "Ana Martín", "position": "UX Designer", "department": "Design", "available": false },
+    { "name": "Pablo Sánchez", "position": "Marketing Manager", "department": "Marketing", "available": true },
+    { "name": "Lucía Fernández", "position": "Community Manager", "department": "Marketing", "available": false },
+    { "name": "David Romero", "position": "Systems Administrator", "department": "IT Support", "available": true }
+]
